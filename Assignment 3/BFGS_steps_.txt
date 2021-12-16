@@ -1,0 +1,12 @@
+At iterate    1,  f= 19468.239617 
+At iterate    2,  f= 18075.459081 
+At iterate    3,  f= 6788.081841 
+At iterate    4,  f= 6367.557968 
+At iterate    5,  f= 3040.912203 
+At iterate    6,  f= 1533.031133 
+At iterate    7,  f= 1298.016699 
+At iterate    8,  f= 866.777727 
+At iterate    9,  f= 820.624377 
+At iterate   10,  f= 420.673527 
+At iterate   11,  f= 0.664802 
+At iterate   12,  f= 0.000000 
